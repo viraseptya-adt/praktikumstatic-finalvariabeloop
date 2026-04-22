@@ -1,0 +1,1 @@
+# praktikumstatic-finalvariabeloop
